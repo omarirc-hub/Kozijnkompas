@@ -88,3 +88,11 @@ Deze GitHub-repository is een overdracht van de huidige websitecode. **Er is nog
 Bronverwijzingen staan in de website. Het item ‘Bronnen’ is op verzoek uit het hoofdmenu verwijderd; de broninhoud is behouden. Gebruik APA-7, controleer paginanummers en gebruik bronlinks zonder trackingparameters.
 
 Het prototype ondersteunt voorselectie en vergelijking. Het is geen constructieberekening, volledige vergunningtoets, complete kostenraming of definitief uitvoerings- of restauratieadvies.
+
+## Pakketvoorstellen in het prototype
+
+De gebruiker selecteert geen losse varianten meer. Na invoer van de situatie en drie wensen (prioriteit, glasbehoud en ruimte voor een binnenvoorzetraam) stelt de tool maximaal drie pakketten samen. Elk pakket bevat een bouwkundige richting, isolatiemaatregel, voordelen, nadelen en openstaande controles. De voorkeur en volledige voorstellen kunnen als JSON worden gedownload.
+
+De selectie volgt voorlopige ontwerpregels, geen wetenschappelijk gevalideerde weging. Glasvervangende pakketten worden alleen opgenomen bij expliciete toestemming voor glasvervanging. Folie wordt alleen voorgesteld bij behoud van niet-historisch glas. Een binnenvoorzetraam vereist aangegeven ruimte. Bij onbekende glaswaarde blijven alleen richtingen met glasbehoud over. Na deze filtering bepaalt de gekozen prioriteit de vaste volgorde; er worden maximaal drie richtingen getoond, of minder als de antwoorden dat vragen.
+
+De bouwtechnische staat bepaalt de geformuleerde bouwkundige richting. Een slechte staat leidt tot een expliciete voorwaarde voor specialistische beoordeling, geen automatische keuze voor volledige vervanging. Glasdikte en sponningmaat bewijzen geen passing. Gewicht, Uw, kosten en condensatie worden niet berekend. De theoretische criteria ondersteunen de uitleg van voor- en nadelen; dit prototype claimt geen bewezen top 3. De keuzevolgorde moet tijdens de peiling en met deskundigen worden getoetst.
