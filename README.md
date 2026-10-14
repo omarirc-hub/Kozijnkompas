@@ -64,12 +64,16 @@ Geef Codex altijd aan welke onderzoeksgegevens zijn onderbouwd. Controleer voorg
 
 De oorspronkelijke versie is gecontroleerd op JavaScript-syntaxis, paginarendering en basislogica. Een volledige visuele browsertest en professionele gebruikerstest moeten nog plaatsvinden.
 
+## Verwerking deelvraag 1
+
+De vergelijkingstool bevat de zes isolatieoplossingen uit §4.4 van het aangeleverde *Afstudeerrapport monumentale vensters* van Koca en Irchouq (z.d.), met HR++ als referentie. De matrix volgt §4.6. Per variant kunnen projectgegevens en beoordelingen worden opgeslagen en meegenomen in de JSON-download. Indicatieve Ug-waarden en dikten blijven gescheiden van productgegevens en Uw. Afwijkende ERM- en RCE-bandbreedten worden afzonderlijk benoemd. De bronverwijzingen zijn overgenomen uit het rapport; deze wijziging is geen onafhankelijke verificatie van de oorspronkelijke publicaties.
+
 ## Onderzoeksgegevens nog nodig
 
-- Definitieve varianten en complete opbouw per variant.
+- Concrete producten en complete opbouw per variant.
 - Materiaalinventaris: bestaand, behouden, verwijderd en toegevoegd.
 - Eenheid en systeemgrens voor materiaalgebruik.
-- Thermische indicator en bepalingsmethode voor de volledige opbouw.
+- Betrouwbare product-Ug en project-Uw indien beschikbaar.
 - Productgegevens met bron, datum, pagina en toepassingsvoorwaarden.
 - Onderbouwde vergelijkingsregels en feedback van professionals.
 
